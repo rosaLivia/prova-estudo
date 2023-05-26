@@ -1,5 +1,10 @@
 Prova:
+<<<<<<< HEAD
 dia 29/05/2023
 p sobre:
 Comando git hub
 slides 5 até 6
+=======
+Professor Andrew Fontão. 
+Sala 6. 
+>>>>>>> ramoprova
